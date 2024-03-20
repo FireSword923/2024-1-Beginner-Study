@@ -16,7 +16,7 @@
     **git remote add origin <github 레포지토리의 주소.git>**
     **git branch -M main**
     **git push -u origin main**
-를 입력하면 로컬 레포지토리와 github 레포지토리가 서로 연동된다. 
+를 입력하면 로컬 레포지토리와 github 레포지토리가 서로 연동되며, github로 파일이 올라가게 된다. 
 이후 기존 파일을 수정해서 다시 올리려면
     **git add <파일 이름>** (**git .** 을 입력 시 폴더 내 모든 것을 대상)
     **git commit(-m <메세지>)**
