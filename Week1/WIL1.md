@@ -6,15 +6,15 @@
 ## 2. git과 VSCode를 이용한 github 사용법
 * 컴퓨터 내에서 폴더를 만든 후 VSCode에서 폴더를 열고 Git bash 터미널에 **git init**을 입력해 해당 폴더에 .git 폴더를 만들어 레포지토리를 만들고, 
 
-    **git add <파일 이름>** (**git .** 을 입력 시 폴더 내 모든 것을 대상)
+    git add <파일 이름> (**git .** 을 입력 시 폴더 내 모든 것을 대상)
 
 을 입력해 원하는 파일을 관리 대상으로 추가한다. 추가한 파일을 레포지토리로 옮기려면 
     
-    **git commit** 
+    git commit
 
 을 입력하면 되며, 여기에 부연 설명(커밋 메세지)을 쓰고 싶으면 
 
-    **git commit -m <메세지>**
+    git commit -m <메세지>
 
 를 입력하면 된다. 가독성을 위해 feat, refactor, fix, chore, dox, test 등등의 type을 앞에 써두는 게 좋다.
 
