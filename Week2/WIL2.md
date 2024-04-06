@@ -51,7 +51,7 @@ github에서는 큰 몸통으로 부터 뻗어나간, 분기된 부분이라는 
 ### 삭제법
 터미널에 
         
-    git branc -D "<Branch 이름>"
+    git branch -D "<Branch 이름>"
 을 입력하면 해당 **Branch**가 삭제된다.
 
 ## Pull Request
