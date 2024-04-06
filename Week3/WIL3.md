@@ -109,3 +109,4 @@ revert 내용을 commit하지 않고 **Staging area**에 올려두는 것 까지
 
     git revert --no-commit <commit id>
 를 입력하면 된다.
+
